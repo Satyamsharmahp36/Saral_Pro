@@ -105,7 +105,7 @@ const FileUploader = () => {
             </span>
           </div>
           <div className="relative inline-block mb-4">
-            <span className="text-2xl font-semibold text-cyan-100 relative z-10">Product Analyzer</span>
+            <span className="text-2xl font-semibold text-cyan-100 relative z-10">Medicine Analyzer</span>
             <div className="absolute -bottom-1 left-0 w-full h-2 bg-gradient-to-r from-cyan-500/50 to-teal-500/50 rounded-full blur-sm"></div>
           </div>
         </div>
@@ -113,7 +113,7 @@ const FileUploader = () => {
           Upload your product get detailed analysis of its contents, health implications, and recommendations.
         </p>
         <div className="absolute top-full right-1/2 transform translate-x-1/2 mt-2 text-xs text-cyan-300/70 bg-blue-900/30 px-3 py-1 rounded-full border border-cyan-500/20">
-          Made by: Satyam Sharma
+           
         </div>
       </div>
       {/* Upload Box */}
